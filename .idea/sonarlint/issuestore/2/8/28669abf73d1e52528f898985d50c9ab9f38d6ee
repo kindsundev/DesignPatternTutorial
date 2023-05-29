@@ -1,0 +1,15 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "facebook".(º–‰Á8µÕ¬¹Ã0
+V
+java:S1854"9Remove this useless assignment to local variable "phone".(ò””8¶Õ¬¹Ã0
+[
+java:S1854"9Remove this useless assignment to local variable "email".(şïéİıÿÿÿÿ8¶Õ¬¹Ã0
+L
+java:S1481"*Remove this unused "email" local variable.(şïéİıÿÿÿÿ8ÈÕ¬¹Ã0
+G
+java:S1481"*Remove this unused "phone" local variable.(ò””8ÌÕ¬¹Ã0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ³æÂûÿÿÿÿ8ÙÕ¬¹Ã0
+J
+java:S1481"-Remove this unused "facebook" local variable.(º–‰Á8ÿÕ¬¹Ã0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ³æÂûÿÿÿÿ8ˆÖ¬¹Ã0
